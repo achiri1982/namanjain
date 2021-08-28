@@ -1,6 +1,6 @@
 <template>
  <div id="app">
-    <h1>S3 Uploader Test - Questions? Ask James @jbesw</h1>
+    <h1>Employee Registration Application</h1>
 
     <div v-if="!image">
       <h2>Select an image</h2>
